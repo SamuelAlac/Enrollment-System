@@ -4,7 +4,7 @@ developed as part of the **Object-Oriented Programming (OOP)** curriculum
 for the **2nd year** of the **Bachelor of Science in Information Technology** program.
 It integrates concepts from **Advanced Database Systems (ADS)** using **MySQL** for efficient data management.
 
-## Features
+### Features
 <ul>
   <li>Authentication: Role-based access control</li>
   <li>Student Management: Read, add, update, and delete student records.</li>
