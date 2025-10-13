@@ -1,4 +1,10 @@
- <h1>Enrollment System Overview</h1>
+<div align='center'>
+
+# Enrollment System Overview
+
+</div>
+
+<div align='center'>
 
 ### Guest - Login
 ![image](https://github.com/user-attachments/assets/8bfde12a-6e2a-49db-b367-575786769f7e)
@@ -43,6 +49,8 @@
 
 ### Employee Logs
 ![image](https://github.com/user-attachments/assets/f07c3cc7-d998-4454-b306-336d6aa76e2c)
+
+</div>
 
 <!--
 ## Features
